@@ -1,4 +1,3 @@
-### Let's use the Dictionary API to build flashcards!
+### React Flashcards App
 
-https://ga-flashcards.herokuapp.com/api/words/
-
+https://git.generalassemb.ly/sf-sei-1/react-component-lifecycle
